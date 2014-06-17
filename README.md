@@ -5,7 +5,30 @@ The OERs - Open Educational Resources
 
 http://youtu.be/-xGRztrWv-k
 
-            <p id="eow-description" >A video about how technology is transforming our system of education, generating equal opportunities for all.<br /><br /><br />SCRIPT &amp; DIRECTION: Daniel Sierra, Ricardo Habalian<br />ILLUSTRATION AND ANIMATION: Victoria Fernández<br />VOICEOVER ARTIST: Vanessa Cuervo<br />VOICEOVER RECORDING: Leonardo Pérez<br />MUSIC AND SOUND DESIGN: Esparragus (Daniel Arreaza)<br /><br />This video is Licensed CC BY, and should be attributed to &quot;intheacademia&quot;<br /><br />We used the following Sound Library for making this video: <br />- creaky_swingset.aif by Corsica_S, CC BY 3.0<br />- frontdoor-lock.wav by TwistedLemon, CC BY 3.0<br />- Lizard eye blink.mp3 by DJ Burnham, CC BY 3.0<br />- Wine glasses clink.mp3 by DJ Burnham, CC BY 3.0<br />- Page_Turn_24.wav by Koops, CC BY 3.0<br />- whip.mp3 by morgantj, CC BY 3.0<br />- lightbulbwink.wav by FreqMan, BY CC 3.0<br />- rocket.wav by Sergenious, CC BY 3.0<br />- Dialup.mp3 by Jlew, CC BY 3.0<br />- My Car Horn - Beep Beep.wav by fogma, CC BY 3.0<br />- Fisher Price3.WAV by tombola, CC Sampling Plus, 1.0<br />- Traffic-Horn Honking.aif by A43, CC Sampling Plus, 1.0<br />- Open_03.WAV by kjackson, CC Sampling Plus, 1.0<br />- Drop_Slow_Long_01.wav by mich3d, CC Sampling Plus, 1.0<br />- HARTBEAT.WAV by dkmedic, CC Sampling Plus, 1.0<br /><br />All other sounds used in this video are licensed CC0, belonging to the Public Domain and therefore their Attribution is not required</p>
+            A video about how technology is transforming our system of education, generating equal opportunities for all.
+            SCRIPT &amp; DIRECTION: Daniel Sierra, Ricardo Habalian
+            ILLUSTRATION AND ANIMATION: Victoria Fernández
+            VOICEOVER ARTIST: Vanessa Cuervo
+            VOICEOVER RECORDING: Leonardo Pérez
+            MUSIC AND SOUND DESIGN: Esparragus (Daniel Arreaza) 
+            This video is Licensed CC BY, and should be attributed to &quot;intheacademia&quot;
+            We used the following Sound Library for making this video: 
+            creaky_swingset.aif by Corsica_S, CC BY 3.0
+            frontdoor-lock.wav by TwistedLemon, CC BY 3.0
+            Lizard eye blink.mp3 by DJ Burnham, CC BY 3.0
+            Wine glasses clink.mp3 by DJ Burnham, CC BY 3.0
+            Page_Turn_24.wav by Koops, CC BY 3.0
+            whip.mp3 by morgantj, CC BY 3.0
+            lightbulbwink.wav by FreqMan, BY CC 3.0
+            rocket.wav by Sergenious, CC BY 3.0
+            Dialup.mp3 by Jlew, CC BY 3.0
+            My Car Horn - Beep Beep.wav by fogma, CC BY 3.0
+            Fisher Price3.WAV by tombola, CC Sampling Plus, 1.0
+            Traffic-Horn Honking.aif by A43, CC Sampling Plus, 1.0
+            Open_03.WAV by kjackson, CC Sampling Plus, 1.0
+            Drop_Slow_Long_01.wav by mich3d, CC Sampling Plus, 1.0
+            HARTBEAT.WAV by dkmedic, CC Sampling Plus, 1.0
+            All other sounds used in this video are licensed CC0, belonging to the Public Domain and therefore their Attribution is not required
 
 Education http://vimeo.com/channels/667414
 inspirationals videos
